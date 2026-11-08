@@ -1,0 +1,11 @@
+Cohen's kappa, assessor 1 vs assessor 2 (25 studies x 4 domains = 100 judgements)
+
+Pooled:  kappa = 0.69   95% CI 0.56 to 0.80   agreement = 80%
+Weighted (linear): kappa = 0.65
+
+Patient Selection:  kappa = 0.36   95% CI 0.16 to 0.59   agreement = 52%
+Index Test:  kappa = 0.75   95% CI 0.51 to 0.94   agreement = 84%
+Reference Standard:  kappa = 0.88   95% CI 0.58 to 1.00   agreement = 96%
+Flow & Timing:  kappa = 0.78   95% CI 0.50 to 1.00   agreement = 88%
+
+CI: percentile bootstrap, 10,000 resamples.
